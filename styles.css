@@ -1,0 +1,25 @@
+h1 {
+    background-color: black;
+    text-align: center;
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+    
+}
+
+img {
+    height: auto;
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul {
+    text-align: center;
+}
+
+button {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-size: 20px;
+}
